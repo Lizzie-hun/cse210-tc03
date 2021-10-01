@@ -1,7 +1,7 @@
 # cse210-tc03
  
 
-This is a sentence.
+My name is Michael Mariscal and I like to fish.
 
 
 My name is Bekah Bentley and I like hiking.
