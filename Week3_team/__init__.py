@@ -10,5 +10,6 @@ def lizzie():
 def main():
   greeting()
   lizzie()
+  
 if __name__ == "__main__":
     main()
