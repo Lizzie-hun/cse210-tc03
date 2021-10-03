@@ -6,10 +6,15 @@ def greeting():
 
 def lizzie():
   print("Hello from Lizzie!")
+ 
+def aloha():
+
+    print("Hello!")
 
 def main():
   greeting()
   lizzie()
+  aloha()
   
 if __name__ == "__main__":
     main()
